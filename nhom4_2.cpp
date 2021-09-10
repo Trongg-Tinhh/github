@@ -143,5 +143,6 @@ int main() {
 	xuatDSSV(a,n);
 	cout << "\nXuat sinh vien kieu con tro\n";
 	xuatDSSV_ConTro(b,n);
+	cout << "hello";
 	free(b);
 }
